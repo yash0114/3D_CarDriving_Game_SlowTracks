@@ -16,4 +16,10 @@ Brake: Press the "Brake" button to slow down or stop the car.
 
 
 ## Screenshots
-![MainMenu](https://raw.githubusercontent.com/yash0114/2d_Platformer_Game/refs/heads/main/Assets/Images/MainMenu.png)
+![MainMenu](https://raw.githubusercontent.com/yash0114/3D_CarDriving_Game_SlowTracks/refs/heads/main/Gameplay%20Images/MainMenu.jpg)
+
+![Track Selection](https://raw.githubusercontent.com/yash0114/3D_CarDriving_Game_SlowTracks/refs/heads/main/Gameplay%20Images/TrackSelection.jpg)
+
+![Snow Track](https://raw.githubusercontent.com/yash0114/3D_CarDriving_Game_SlowTracks/refs/heads/main/Gameplay%20Images/SnowTrack.jpg)
+
+![Dirt Track](https://raw.githubusercontent.com/yash0114/3D_CarDriving_Game_SlowTracks/refs/heads/main/Gameplay%20Images/DirtTrack.jpg)
