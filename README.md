@@ -2,6 +2,7 @@
 
 ## Controls 
 Steering:-
+
 Left Turn: Tap or hold anywhere on the left half of the screen to steer the car to the left.
 
 Right Turn: Tap or hold anywhere on the right half of the screen to steer the car to the right.
