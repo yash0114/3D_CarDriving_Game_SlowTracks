@@ -12,3 +12,8 @@ Acceleration: Press the "Accelerate" button to increase the car’s speed.
 Reverse: Press the "Reverse" button to move the car backward. This button is positioned near the "Accelerate" button for easy access.
 
 Brake: Press the "Brake" button to slow down or stop the car.
+
+
+
+## Screenshots
+![MainMenu](https://raw.githubusercontent.com/yash0114/2d_Platformer_Game/refs/heads/main/Assets/Images/MainMenu.png)
